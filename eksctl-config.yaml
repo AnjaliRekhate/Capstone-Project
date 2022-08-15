@@ -109,3 +109,5 @@ nodeGroups: # Refer: https://github.com/weaveworks/eksctl/blob/main/examples/05-
     maxSize: 5
     subnets:
       - my-public-201-a
+      
+      
